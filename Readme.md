@@ -139,7 +139,7 @@ Outlier terdeteksi pada beberapa fitur numerik, terutama:
 
 #### 1. Histogram Distribusi Fitur Numerik
 
-![Visualisasi Distribusi Variabel Numerik](https://github.com/user-attachments/assets/77854d52-a945-4ce2-b339-0b8b1b3ae9de)
+![Visualisasi Distribusi Variabel Numerik](https://github.com/user-attachments/assets/77c567cf-5658-4dd2-8ede-535f7df7596c)
 
 Menampilkan distribusi dari fitur numerik pada dataset:
 
@@ -153,7 +153,7 @@ Menampilkan distribusi dari fitur numerik pada dataset:
 
 #### 2. Distribusi Kategori Ocean Proximity
 
-![Visualisasi Kategori Ocean Proximity](https://github.com/user-attachments/assets/326ae6df-7f2d-47c5-b502-090f2ad6b4c4)
+![Visualisasi Kategori Ocean Proximity](https://github.com/user-attachments/assets/a9cfef5a-3207-4a1e-b0ab-f307ea3b0276)
 
 Distribusi jumlah data berdasarkan kategori `ocean_proximity`:
 
@@ -165,7 +165,7 @@ Distribusi jumlah data berdasarkan kategori `ocean_proximity`:
 
 #### 3. Peta Sebaran Lokasi Rumah Berdasarkan Harga
 
-![Scatter Plot Lokasi dan Harga Rumah](https://github.com/user-attachments/assets/95ec97d1-7111-466a-a32c-07883f7b7546)
+![Scatter Plot Lokasi dan Harga Rumah](https://github.com/user-attachments/assets/8aa3ec7a-b97e-4762-9b3a-ccb531c086d0)
 
 Scatter plot `latitude vs longitude` dengan warna yang menunjukkan nilai `median_house_value`:
 
@@ -176,7 +176,7 @@ Scatter plot `latitude vs longitude` dengan warna yang menunjukkan nilai `median
 
 #### 4. Top 10 Feature Importance
 
-![Visualisasi Feature Importance](https://github.com/user-attachments/assets/e4087723-af33-4772-ada9-cbef6ea0630e)
+![Visualisasi Feature Importance](https://github.com/user-attachments/assets/e29d097c-c7fe-4575-b3a6-fe0280121955)
 
 Hasil dari model (kemungkinan Decision Tree/Random Forest) menunjukkan fitur-fitur paling penting dalam memprediksi harga rumah:
 
@@ -188,7 +188,7 @@ Hasil dari model (kemungkinan Decision Tree/Random Forest) menunjukkan fitur-fit
 
 #### 5. Prediksi vs Nilai Aktual
 
-![Plot Prediksi vs Aktual](https://github.com/user-attachments/assets/8bceae7a-9fa5-4950-9b0c-2989693722d5)
+![Plot Prediksi vs Aktual](https://github.com/user-attachments/assets/2690496e-670c-4538-8a59-669a17a2fc3f)
 
 Plot antara hasil prediksi model dan nilai aktual `median_house_value`:
 
@@ -199,7 +199,7 @@ Plot antara hasil prediksi model dan nilai aktual `median_house_value`:
 
 #### 6. Distribusi Residual Error
 
-![Distribusi Residual Error](https://github.com/user-attachments/assets/42539df1-095d-4fd2-8615-19861efb9692)
+![Distribusi Residual Error](https://github.com/user-attachments/assets/0e616810-4b18-4edc-ab24-f5410efe6143)
 
 Histogram dari nilai residual (selisih antara nilai aktual dan prediksi):
 
@@ -210,7 +210,7 @@ Histogram dari nilai residual (selisih antara nilai aktual dan prediksi):
 
 #### 7. Residual Error vs Prediksi
 
-![Residual Error vs Prediksi](https://github.com/user-attachments/assets/4607bf49-75ff-42a8-a75d-6031f1d601f9)
+![Residual Error vs Prediksi](https://github.com/user-attachments/assets/d42fc680-23f6-476c-88ea-a81a1ddedf27)
 
 Plot residual terhadap nilai prediksi:
 
